@@ -1,4 +1,4 @@
-setwd("~/Box Sync/Lampropeltis project/PANTHEROPHIS_project/IQtree_PHRAPL")
+setwd("~/PHRAPL_files/Input_files")
 
 library(tidyverse)
 library(cowplot)
