@@ -5,6 +5,8 @@ The following is code to generate figures from [Marshall et al. (2021)](https://
 ## Data visualization
 
 I. Phylogenetic trees (Fig. 1)
+* [Extract data from PAUP* output .log files](LINKHERE)
 
 II. NGSAdmix analyses (Figs. S1 and S2)
+* [Extract data from PAUP* output .log files](LINKHERE)
 
