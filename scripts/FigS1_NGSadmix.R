@@ -1,5 +1,3 @@
-setwd("~/NGSadmix_files/")
-
 library(pophelper)
 library(gridExtra)
 library(cowplot)

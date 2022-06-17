@@ -1,5 +1,3 @@
-setwd("~/Box Sync/Lampropeltis project/PANTHEROPHIS_project")
-
 library(scatterpie) # needed for making pies
 library(cowplot)
 library(tidyverse)

@@ -1,5 +1,3 @@
-setwd("~/Box Sync/Lampropeltis project/PANTHEROPHIS_project")
-
 library(ggtree)
 library(ggplot2)
 library(tidyverse)

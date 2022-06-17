@@ -1,5 +1,3 @@
-setwd("~/PHRAPL_files/Input_files")
-
 library(devtools)
 library(ape)
 library(tidyverse)

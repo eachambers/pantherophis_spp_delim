@@ -1,5 +1,3 @@
-setwd("~/PHRAPL_files/Input_files")
-
 library(tidyverse)
 library(cowplot)
 library(ggplot2)
