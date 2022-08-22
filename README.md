@@ -1,6 +1,6 @@
 # pantherophis_spp_delim
 
-The following is code to generate figures from [Marshall et al. (2021)](https://www.sciencedirect.com/science/article/abs/pii/S1055790321001275). Raw data files are provided on Dryad [here](LINKHERE).
+The following is code to generate figures from [Marshall et al. (2021)](https://www.sciencedirect.com/science/article/abs/pii/S1055790321001275). Raw data files are provided on Dryad [here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.cc2fqz64d).
 
 ## Data analysis
 * [Split iPyrad .loci files and save separately](https://github.com/eachambers/pantherophis_spp_delim/blob/main/scripts/Split_loci_file.ipynb)
